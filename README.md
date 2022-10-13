@@ -1,7 +1,28 @@
-# 틱택토에 대한 탐구
+# Tic-Tac-Toe-Tool
+틱택토 플레이 도구와 게임 분석 도구를 제공합니다.
+<br><br>
+Provides the tic-tac-toe play tools and the game analysis tools.
 
-### 목표
-1. 틱택토의 모든 경우의 수 탐색 -> 2022.10.10 완료
-2. 의도를 삽입하면 어떤 결과가 나오는지 탐색
 <br>
-*마지막 업데이트 : 2020-10-10
+
+## Updated
+### Play Tool
+<비어있음>
+
+### Analysis Tool
+* 모든 경우의 수 카운트
+
+<br><br>
+
+## To be updated
+### Play Tool
+* 기본 플레이 과정
+* 컴퓨터 AI
+* 행동 제한
+* 보드 크기 변경
+* 플레이어 수 변경
+* 승리 조건 변경
+
+### Analysis Tool
+* 경우의 수 제한
+* 모든 경우의 수 표시
