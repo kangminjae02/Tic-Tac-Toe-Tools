@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Tool
+# Tic-Tac-Toe-Tools
 틱택토 플레이 도구와 게임 분석 도구를 제공합니다.
 <br><br>
 Provides the tic-tac-toe play tools and the game analysis tools.
